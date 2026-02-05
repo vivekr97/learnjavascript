@@ -48,3 +48,4 @@ console.log(typeof booleanIsloggedin);
 // undefined=> o/p is false
 // NaN=> o/p is false
 console.log(typeof NaN);
+locognsole.log("vivek is    greate")
