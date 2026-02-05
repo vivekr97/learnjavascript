@@ -47,3 +47,4 @@ console.log(typeof booleanIsloggedin);
 // null=> o/p is false
 // undefined=> o/p is false
 // NaN=> o/p is false
+console.log(typeof NaN);
